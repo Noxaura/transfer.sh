@@ -7,10 +7,11 @@ import (
 
 	"strings"
 
-	"github.com/dutchcoders/transfer.sh/server"
+	"log"
+
+	"github.com/Noxaura/transfer.sh/server"
 	"github.com/fatih/color"
 	"github.com/minio/cli"
-	"log"
 )
 
 var Version = "0.1"
